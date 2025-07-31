@@ -15,8 +15,3 @@
 ```bash
 chmod +x setup_ia22_web.sh
 ./setup_ia22_web.sh
-
-
-
-...
-
