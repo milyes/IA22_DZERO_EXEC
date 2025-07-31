@@ -15,3 +15,19 @@
 ```bash
 chmod +x setup_ia22_web.sh
 ./setup_ia22_web.sh
+---
+
+## ✅ Étapes finales pour publier sur GitHub
+
+1. Crée un dépôt public :
+   👉 [`https://github.com/milyes/IA22_DZERO_EXEC`](https://github.com/milyes/IA22_DZERO_EXEC)
+
+2. Clone et initialise le dépôt :
+
+```bash
+git clone https://github.com/milyes/IA22_DZERO_EXEC
+cd IA22_DZERO_EXEC
+# Colle tous les fichiers ici
+git add .
+git commit -m "🔁 Première version IA22_DZERO_EXEC"
+git push origin main
